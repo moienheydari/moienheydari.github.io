@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.eecda553.css",
-    "main.js": "./static/js/main.8db7898c.js",
+    "main.css": "./static/css/main.4f34de2e.css",
+    "main.js": "./static/js/main.fb0e84c1.js",
     "static/media/BackgroundVideo.mp4": "./static/media/BackgroundVideo.5c8617cd355fd44b22bd.mp4",
     "static/media/PictureOne.png": "./static/media/PictureOne.216655713d44e1dc8ea4.png",
     "static/media/PictureFour.png": "./static/media/PictureFour.8b54ccf9c8644200eded.png",
     "static/media/PictureTwo.png": "./static/media/PictureTwo.9d0dcb7b19a8586a8642.png",
     "static/media/PictureThree.png": "./static/media/PictureThree.226e58ae5d799d67c671.png",
     "static/media/PictureFive.png": "./static/media/PictureFive.dcc9efd52d5700a668c5.png",
-    "static/media/ICARUS_LOGO_BLACK.png": "./static/media/ICARUS_LOGO_BLACK.4df75fd63d79091394b9.png",
     "static/media/ICARUS_LOGO_WHITE.png": "./static/media/ICARUS_LOGO_WHITE.1efd5b0648014e49b6b2.png",
     "index.html": "./index.html",
-    "main.eecda553.css.map": "./static/css/main.eecda553.css.map",
-    "main.8db7898c.js.map": "./static/js/main.8db7898c.js.map"
+    "main.4f34de2e.css.map": "./static/css/main.4f34de2e.css.map",
+    "main.fb0e84c1.js.map": "./static/js/main.fb0e84c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.eecda553.css",
-    "static/js/main.8db7898c.js"
+    "static/css/main.4f34de2e.css",
+    "static/js/main.fb0e84c1.js"
   ]
 }
