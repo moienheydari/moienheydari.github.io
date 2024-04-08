@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.cb50efdd.css",
-    "main.js": "./static/js/main.cf94ecb1.js",
+    "main.css": "./static/css/main.9d68dc62.css",
+    "main.js": "./static/js/main.cf9c418e.js",
     "static/media/BackgroundVideo.mp4": "./static/media/BackgroundVideo.5c8617cd355fd44b22bd.mp4",
     "static/media/PictureOne.png": "./static/media/PictureOne.216655713d44e1dc8ea4.png",
     "static/media/PictureFour.png": "./static/media/PictureFour.8b54ccf9c8644200eded.png",
@@ -10,11 +10,11 @@
     "static/media/PictureFive.png": "./static/media/PictureFive.dcc9efd52d5700a668c5.png",
     "static/media/ICARUS_LOGO_WHITE.png": "./static/media/ICARUS_LOGO_WHITE.1efd5b0648014e49b6b2.png",
     "index.html": "./index.html",
-    "main.cb50efdd.css.map": "./static/css/main.cb50efdd.css.map",
-    "main.cf94ecb1.js.map": "./static/js/main.cf94ecb1.js.map"
+    "main.9d68dc62.css.map": "./static/css/main.9d68dc62.css.map",
+    "main.cf9c418e.js.map": "./static/js/main.cf9c418e.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb50efdd.css",
-    "static/js/main.cf94ecb1.js"
+    "static/css/main.9d68dc62.css",
+    "static/js/main.cf9c418e.js"
   ]
 }
