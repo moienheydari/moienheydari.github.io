@@ -1,24 +1,32 @@
 {
   "files": {
-    "main.css": "./static/css/main.9d491d7e.css",
-    "main.js": "./static/js/main.122dd5ab.js",
+    "main.css": "./static/css/main.3a1e80d2.css",
+    "main.js": "./static/js/main.cb6acf08.js",
     "static/media/RA_Profile_01.jpg": "./static/media/RA_Profile_01.b75e31fa0626630e14fa.jpg",
     "static/media/BackgroundVideo.mp4": "./static/media/BackgroundVideo.5c8617cd355fd44b22bd.mp4",
     "static/media/DART_Profile_1.jpg": "./static/media/DART_Profile_1.2b30b3bcb09b333c6a43.jpg",
     "static/media/ACC_Profile_1.jpg": "./static/media/ACC_Profile_1.9b9e6ebbb3a28a663bf3.jpg",
     "static/media/IT_Profile_01.png": "./static/media/IT_Profile_01.1be279521e73d7239f34.png",
+    "static/media/ACC_Text_2.jpg": "./static/media/ACC_Text_2.60ead65bf935cc63173e.jpg",
+    "static/media/Background.jpg": "./static/media/Background.11b41da065e9e66607e1.jpg",
     "static/media/Gallery_04.jpg": "./static/media/Gallery_04.f1907e190da09df5c955.jpg",
+    "static/media/ACC_Text_4.jpg": "./static/media/ACC_Text_4.be5ed0bc3f00355dd171.jpg",
     "static/media/Gallery_03.jpg": "./static/media/Gallery_03.be5ed0bc3f00355dd171.jpg",
+    "static/media/ACC_Text_6.png": "./static/media/ACC_Text_6.e507b36d075baa29fd18.png",
     "static/media/Gallery_05.jpg": "./static/media/Gallery_05.b9b5d974a6d69e3253bb.jpg",
+    "static/media/ACC_Text_1.jpg": "./static/media/ACC_Text_1.02d4735bda5938f1e6ee.jpg",
     "static/media/Gallery_02.jpg": "./static/media/Gallery_02.02d4735bda5938f1e6ee.jpg",
+    "static/media/ACC_Text_3.jpg": "./static/media/ACC_Text_3.5cd969720a0e0d5b712f.jpg",
     "static/media/Gallery_01.jpg": "./static/media/Gallery_01.2c2333b263b750c1b0f8.jpg",
+    "static/media/ACC_Text_5.jpg": "./static/media/ACC_Text_5.d75583d24f7d13bf1dec.jpg",
     "static/media/ICARUS_LOGO_WHITE.png": "./static/media/ICARUS_LOGO_WHITE.1efd5b0648014e49b6b2.png",
+    "static/media/ACC_Text_8.jpg": "./static/media/ACC_Text_8.3017c456cb7a5e8376cb.jpg",
     "index.html": "./index.html",
-    "main.9d491d7e.css.map": "./static/css/main.9d491d7e.css.map",
-    "main.122dd5ab.js.map": "./static/js/main.122dd5ab.js.map"
+    "main.3a1e80d2.css.map": "./static/css/main.3a1e80d2.css.map",
+    "main.cb6acf08.js.map": "./static/js/main.cb6acf08.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d491d7e.css",
-    "static/js/main.122dd5ab.js"
+    "static/css/main.3a1e80d2.css",
+    "static/js/main.cb6acf08.js"
   ]
 }
