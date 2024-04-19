@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.9410f961.css",
-    "main.js": "./static/js/main.8f38776f.js",
+    "main.css": "./static/css/main.d86e54b0.css",
+    "main.js": "./static/js/main.4c897375.js",
     "static/media/BackgroundVideo.mp4": "./static/media/BackgroundVideo.5c8617cd355fd44b22bd.mp4",
-    "static/media/DART_Profile_1.jpg": "./static/media/DART_Profile_1.aabbc9109ba21287787c.jpg",
     "static/media/RA_Costruzione_Carlotta_Maria_Bruggi_s307054@studenti.polito.it.png": "./static/media/RA_Costruzione_Carlotta_Maria_Bruggi_s307054@studenti.polito.it.5dfdc8334d6f3f62850d.png",
     "static/media/DART_propulsione_edgardo_rossi_edgardorossisagredo@gmail.com.png": "./static/media/DART_propulsione_edgardo_rossi_edgardorossisagredo@gmail.com.397b6b4d904b499ddc88.png",
     "static/media/RA_Sistemi_Ilaria_Bovero_s300387@studenti.polito.it.png": "./static/media/RA_Sistemi_Ilaria_Bovero_s300387@studenti.polito.it.ea0a837f90e6758c6972.png",
     "static/media/IT_Responsabile_Angelo_Romano_angelodaroma00@gmail.com.png": "./static/media/IT_Responsabile_Angelo_Romano_angelodaroma00@gmail.com.3cd8732ae4ea0920481a.png",
     "static/media/DART_Aerodinamica_Annamaria_Sortino_annamaria.sortino1504@gmail.com.png": "./static/media/DART_Aerodinamica_Annamaria_Sortino_annamaria.sortino1504@gmail.com.14787c382acfa7d64da7.png",
-    "static/media/RA_Profile_01.jpg": "./static/media/RA_Profile_01.0c35e8c71f889275211a.jpg",
     "static/media/ACC_Aerodinamica_Maura_Ponti_pontimaura@gmail.com.png": "./static/media/ACC_Aerodinamica_Maura_Ponti_pontimaura@gmail.com.f23dee2ba0e4bcd0fc3b.png",
     "static/media/DART_Strutture_Luca_Venier_lucaveier4@gmail.com.png": "./static/media/DART_Strutture_Luca_Venier_lucaveier4@gmail.com.31f7fab1bc3a2f7db9e7.png",
     "static/media/DART_capopropulsione_Fabrizio_Mariotti_fabrizio.matiotti1@gmail.com.png": "./static/media/DART_capopropulsione_Fabrizio_Mariotti_fabrizio.matiotti1@gmail.com.88bb1bf0d0659fb6d68e.png",
@@ -42,7 +40,6 @@
     "static/media/RA_Strutture_LORENZO_CRIPPA_s329303@studenti.polito.it.png": "./static/media/RA_Strutture_LORENZO_CRIPPA_s329303@studenti.polito.it.aeba1c8a8bba376ecf1f.png",
     "static/media/ACC_strutture_Umberto_gismondi_umbertogismondi.ug@gmail.com.png": "./static/media/ACC_strutture_Umberto_gismondi_umbertogismondi.ug@gmail.com.1ddc7a9979fb297b980e.png",
     "static/media/RA_ProjectManagerRA_Stefano_Zappone_stefano.zappone@gmail.com.png": "./static/media/RA_ProjectManagerRA_Stefano_Zappone_stefano.zappone@gmail.com.fe752dbcee48ae6f9940.png",
-    "static/media/ACC_Profile_1.jpg": "./static/media/ACC_Profile_1.ec4e37ae8c94779d0d8d.jpg",
     "static/media/ACC_Aerodinamica_Michelangelo_Pacilli_s333008@studenti.polito.it.png": "./static/media/ACC_Aerodinamica_Michelangelo_Pacilli_s333008@studenti.polito.it.336856e947054a7ff5f1.png",
     "static/media/RA_MDV_Gabriele_Cascino_s295557@studenti.polito.it.png": "./static/media/RA_MDV_Gabriele_Cascino_s295557@studenti.polito.it.f2163f99185b36a2c7b3.png",
     "static/media/ACC_MDV_Matteo_Tilocca_matteotilocca04@gmail.com.png": "./static/media/ACC_MDV_Matteo_Tilocca_matteotilocca04@gmail.com.45d6271a1a0ff00e8d76.png",
@@ -80,7 +77,10 @@
     "static/media/Gallery_02.jpg": "./static/media/Gallery_02.02d4735bda5938f1e6ee.jpg",
     "static/media/ACC_Text_3.jpg": "./static/media/ACC_Text_3.5cd969720a0e0d5b712f.jpg",
     "static/media/Gallery_01.jpg": "./static/media/Gallery_01.2c2333b263b750c1b0f8.jpg",
+    "static/media/RA_Profile_01.jpg": "./static/media/RA_Profile_01.0721824226d7351f93dc.jpg",
     "static/media/ACC_Text_5.jpg": "./static/media/ACC_Text_5.d75583d24f7d13bf1dec.jpg",
+    "static/media/ACC_Profile_1.jpg": "./static/media/ACC_Profile_1.318370fec2dab97a74dd.jpg",
+    "static/media/DART_Profile_1.jpg": "./static/media/DART_Profile_1.db5070e3cdeaaf45b5ba.jpg",
     "static/media/ICARUS_LOGO_WHITE.png": "./static/media/ICARUS_LOGO_WHITE.1efd5b0648014e49b6b2.png",
     "static/media/DART_PropulsioneIbrido_Luca_Pascarito_pascarito.luca.03@gmail.com.png": "./static/media/DART_PropulsioneIbrido_Luca_Pascarito_pascarito.luca.03@gmail.com.3eab38584d06e73fdc99.png",
     "static/media/DART_Strutture_Santiago_Casas_s307196@studenti.polito.it.png": "./static/media/DART_Strutture_Santiago_Casas_s307196@studenti.polito.it.a8215164b10ca658e51f.png",
@@ -89,11 +89,11 @@
     "static/media/ACC_Text_8.jpg": "./static/media/ACC_Text_8.3017c456cb7a5e8376cb.jpg",
     "static/media/DART_PropulsioneIbrida_Carlo Mosé_Biscaro_carlo.biscaro26@gmail.com.png": "./static/media/DART_PropulsioneIbrida_Carlo Mosé_Biscaro_carlo.biscaro26@gmail.com.76f62caa29879437def9.png",
     "index.html": "./index.html",
-    "main.9410f961.css.map": "./static/css/main.9410f961.css.map",
-    "main.8f38776f.js.map": "./static/js/main.8f38776f.js.map"
+    "main.d86e54b0.css.map": "./static/css/main.d86e54b0.css.map",
+    "main.4c897375.js.map": "./static/js/main.4c897375.js.map"
   },
   "entrypoints": [
-    "static/css/main.9410f961.css",
-    "static/js/main.8f38776f.js"
+    "static/css/main.d86e54b0.css",
+    "static/js/main.4c897375.js"
   ]
 }
