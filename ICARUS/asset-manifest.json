@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.af0bd344.css",
-    "main.js": "./static/js/main.1f87cc4d.js",
+    "main.css": "./static/css/main.e1fd765f.css",
+    "main.js": "./static/js/main.9980aa73.js",
     "static/media/RA_Costruzione_Carlotta_Maria_Bruggi_s307054@studenti.polito.it.png": "./static/media/RA_Costruzione_Carlotta_Maria_Bruggi_s307054@studenti.polito.it.5dfdc8334d6f3f62850d.png",
     "static/media/DART_propulsione_edgardo_rossi_edgardorossisagredo@gmail.com.png": "./static/media/DART_propulsione_edgardo_rossi_edgardorossisagredo@gmail.com.397b6b4d904b499ddc88.png",
     "static/media/RA_Sistemi_Ilaria_Bovero_s300387@studenti.polito.it.png": "./static/media/RA_Sistemi_Ilaria_Bovero_s300387@studenti.polito.it.ea0a837f90e6758c6972.png",
@@ -88,11 +88,11 @@
     "static/media/ACC_Text_8.jpg": "./static/media/ACC_Text_8.3017c456cb7a5e8376cb.jpg",
     "static/media/DART_PropulsioneIbrida_Carlo Mosé_Biscaro_carlo.biscaro26@gmail.com.png": "./static/media/DART_PropulsioneIbrida_Carlo Mosé_Biscaro_carlo.biscaro26@gmail.com.76f62caa29879437def9.png",
     "index.html": "./index.html",
-    "main.af0bd344.css.map": "./static/css/main.af0bd344.css.map",
-    "main.1f87cc4d.js.map": "./static/js/main.1f87cc4d.js.map"
+    "main.e1fd765f.css.map": "./static/css/main.e1fd765f.css.map",
+    "main.9980aa73.js.map": "./static/js/main.9980aa73.js.map"
   },
   "entrypoints": [
-    "static/css/main.af0bd344.css",
-    "static/js/main.1f87cc4d.js"
+    "static/css/main.e1fd765f.css",
+    "static/js/main.9980aa73.js"
   ]
 }
