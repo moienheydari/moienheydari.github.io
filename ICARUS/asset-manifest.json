@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.e1fd765f.css",
-    "main.js": "./static/js/main.9980aa73.js",
+    "main.css": "./static/css/main.9e7e2ee3.css",
+    "main.js": "./static/js/main.a86142a9.js",
     "static/media/RA_Costruzione_Carlotta_Maria_Bruggi_s307054@studenti.polito.it.png": "./static/media/RA_Costruzione_Carlotta_Maria_Bruggi_s307054@studenti.polito.it.5dfdc8334d6f3f62850d.png",
     "static/media/DART_propulsione_edgardo_rossi_edgardorossisagredo@gmail.com.png": "./static/media/DART_propulsione_edgardo_rossi_edgardorossisagredo@gmail.com.397b6b4d904b499ddc88.png",
     "static/media/RA_Sistemi_Ilaria_Bovero_s300387@studenti.polito.it.png": "./static/media/RA_Sistemi_Ilaria_Bovero_s300387@studenti.polito.it.ea0a837f90e6758c6972.png",
@@ -80,19 +80,32 @@
     "static/media/ACC_Text_5.jpg": "./static/media/ACC_Text_5.d75583d24f7d13bf1dec.jpg",
     "static/media/ACC_Profile_1.jpg": "./static/media/ACC_Profile_1.318370fec2dab97a74dd.jpg",
     "static/media/DART_Profile_1.jpg": "./static/media/DART_Profile_1.db5070e3cdeaaf45b5ba.jpg",
+    "static/media/Plyform_plyform.it.png": "./static/media/Plyform_plyform.it.8a158effd4dbf5ba6b01.png",
+    "static/media/LMA_lmasrl.com.png": "./static/media/LMA_lmasrl.com.8162f6710d45c3800334.png",
     "static/media/ICARUS_LOGO_WHITE.png": "./static/media/ICARUS_LOGO_WHITE.1efd5b0648014e49b6b2.png",
     "static/media/DART_PropulsioneIbrido_Luca_Pascarito_pascarito.luca.03@gmail.com.png": "./static/media/DART_PropulsioneIbrido_Luca_Pascarito_pascarito.luca.03@gmail.com.3eab38584d06e73fdc99.png",
     "static/media/DART_Strutture_Santiago_Casas_s307196@studenti.polito.it.png": "./static/media/DART_Strutture_Santiago_Casas_s307196@studenti.polito.it.a8215164b10ca658e51f.png",
     "static/media/IT_Controlli_Federico_Morro_fedemorro01@gmail.com.png": "./static/media/IT_Controlli_Federico_Morro_fedemorro01@gmail.com.65e45263613227a05517.png",
     "static/media/RA_Costruzione_Sebastiano_Tuccitto_sebytucci@gmail.com.png": "./static/media/RA_Costruzione_Sebastiano_Tuccitto_sebytucci@gmail.com.7f95a603c94eae48a7b7.png",
+    "static/media/Solbian_solbian.eu.svg": "./static/media/Solbian_solbian.eu.dbe429c49c3a58588683.svg",
+    "static/media/AESS_ieee-aess.org.svg": "./static/media/AESS_ieee-aess.org.0064ba334008dd4c452a.svg",
     "static/media/ACC_Text_8.jpg": "./static/media/ACC_Text_8.3017c456cb7a5e8376cb.jpg",
     "static/media/DART_PropulsioneIbrida_Carlo Mosé_Biscaro_carlo.biscaro26@gmail.com.png": "./static/media/DART_PropulsioneIbrida_Carlo Mosé_Biscaro_carlo.biscaro26@gmail.com.76f62caa29879437def9.png",
+    "static/media/Multiplex.svg": "./static/media/Multiplex.1b003c4b57a736eea71e.svg",
+    "static/media/T-Motor_uav-en.tmotor.com.svg": "./static/media/T-Motor_uav-en.tmotor.com.a767d45685473a8c0a34.svg",
+    "static/media/Kappa_kappa.com.svg": "./static/media/Kappa_kappa.com.d2165a4f42fcb8229c06.svg",
+    "static/media/ColorFabb_colorfabb.com.svg": "./static/media/ColorFabb_colorfabb.com.b60f2b47538792d01cdc.svg",
+    "static/media/VINK_www.roehmitalia.it.svg": "./static/media/VINK_www.roehmitalia.it.b2cf1ba7fbab000116af.svg",
+    "static/media/Dassault Systemes_3ds.com.svg": "./static/media/Dassault Systemes_3ds.com.0c05e68b8e67358685d2.svg",
+    "static/media/Avio_avio.com.svg": "./static/media/Avio_avio.com.fb1cfec93f78b0bb60b7.svg",
+    "static/media/Maxeon_maxeon.com.svg": "./static/media/Maxeon_maxeon.com.68e27bef1b56dfecb0f4.svg",
+    "static/media/Altair_altairengineering.it.svg": "./static/media/Altair_altairengineering.it.64d252aa4c91eb526902.svg",
     "index.html": "./index.html",
-    "main.e1fd765f.css.map": "./static/css/main.e1fd765f.css.map",
-    "main.9980aa73.js.map": "./static/js/main.9980aa73.js.map"
+    "main.9e7e2ee3.css.map": "./static/css/main.9e7e2ee3.css.map",
+    "main.a86142a9.js.map": "./static/js/main.a86142a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1fd765f.css",
-    "static/js/main.9980aa73.js"
+    "static/css/main.9e7e2ee3.css",
+    "static/js/main.a86142a9.js"
   ]
 }
