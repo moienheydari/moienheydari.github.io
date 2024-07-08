@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.c831f1e8.css",
+    "main.css": "./static/css/main.1a3ec4ca.css",
     "main.js": "./static/js/main.af270ce7.js",
     "static/media/ACC_TeamLeader_Antonella_DeDato_antonella.dedato00@gmail.com.png": "./static/media/ACC_TeamLeader_Antonella_DeDato_antonella.dedato00@gmail.com.2587eba54e2ad0508440.png",
     "static/media/Artedas_www.artedas.it.bmp": "./static/media/Artedas_www.artedas.it.6f653ba4fa9434494a48.bmp",
@@ -89,6 +89,7 @@
     "static/media/DART_Propulsione_Andrea_Tagliavia_andrea.tagliavia03@gmail.com.png": "./static/media/DART_Propulsione_Andrea_Tagliavia_andrea.tagliavia03@gmail.com.c4ab1e23b08572a5f639.png",
     "static/media/RA_Sistemi_Luca_Mazzon_s334131@studenti.polito.it.png": "./static/media/RA_Sistemi_Luca_Mazzon_s334131@studenti.polito.it.e3995c246b26441df3c2.png",
     "static/media/RA_Aerodinamica_Alessandro_Nigra_inseriremail.png": "./static/media/RA_Aerodinamica_Alessandro_Nigra_inseriremail.155a6220825c4c3b7815.png",
+    "static/media/Background3.jpeg": "./static/media/Background3.b4eed4bc45954c96f13a.jpeg",
     "static/media/ACC_Text_2.jpg": "./static/media/ACC_Text_2.60ead65bf935cc63173e.jpg",
     "static/media/DART_PropulsioneIbrido_Luca_Pascarito_pascarito.luca.03@gmail.com.png": "./static/media/DART_PropulsioneIbrido_Luca_Pascarito_pascarito.luca.03@gmail.com.94f71820362ccbe40141.png",
     "static/media/IT_ResponsabileSimulatore_Ludovica_Mazzucco_ludovica.mazzucco@icloud.com.png": "./static/media/IT_ResponsabileSimulatore_Ludovica_Mazzucco_ludovica.mazzucco@icloud.com.a482b38737493a248cd3.png",
@@ -98,7 +99,6 @@
     "static/media/DART_Strutture_Santiago_Casas_s307196@studenti.polito.it.png": "./static/media/DART_Strutture_Santiago_Casas_s307196@studenti.polito.it.fdaf8b419855d2c1d558.png",
     "static/media/DART_Propulsione_Marco_Brancato_s322645@studenti.polito.it.png": "./static/media/DART_Propulsione_Marco_Brancato_s322645@studenti.polito.it.d50b84403983d0c1978f.png",
     "static/media/DART_PropulsioneIbrida_Carlo Mosé_Biscaro_carlo.biscaro26@gmail.com.png": "./static/media/DART_PropulsioneIbrida_Carlo Mosé_Biscaro_carlo.biscaro26@gmail.com.195a80701f3a59f7bf38.png",
-    "static/media/Background.jpg": "./static/media/Background.11b41da065e9e66607e1.jpg",
     "static/media/Gallery_04.jpg": "./static/media/Gallery_04.f1907e190da09df5c955.jpg",
     "static/media/ACC_Text_4.jpg": "./static/media/ACC_Text_4.be5ed0bc3f00355dd171.jpg",
     "static/media/Gallery_03.jpg": "./static/media/Gallery_03.be5ed0bc3f00355dd171.jpg",
@@ -132,11 +132,11 @@
     "static/media/Maxeon_maxeon.com.svg": "./static/media/Maxeon_maxeon.com.68e27bef1b56dfecb0f4.svg",
     "static/media/Altair_altairengineering.it.svg": "./static/media/Altair_altairengineering.it.64d252aa4c91eb526902.svg",
     "index.html": "./index.html",
-    "main.c831f1e8.css.map": "./static/css/main.c831f1e8.css.map",
+    "main.1a3ec4ca.css.map": "./static/css/main.1a3ec4ca.css.map",
     "main.af270ce7.js.map": "./static/js/main.af270ce7.js.map"
   },
   "entrypoints": [
-    "static/css/main.c831f1e8.css",
+    "static/css/main.1a3ec4ca.css",
     "static/js/main.af270ce7.js"
   ]
 }
